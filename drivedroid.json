@@ -1568,6 +1568,7 @@
                 "url": "https://cdimage.kali.org/kali-2023.1/kali-linux-2023.1-installer-netinst-amd64.iso",
                 "arch": "amd64",
                 "version": "2023.1
+                "size": 400000000
         ],
         "path": "/home/runner/work/distscraper/distscraper/scrapers/kalilinux.js"
     },
